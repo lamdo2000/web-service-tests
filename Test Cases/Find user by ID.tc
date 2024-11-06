@@ -4,7 +4,6 @@
    <name>Find user by ID</name>
    <tag></tag>
     <integratedEntity>
-
 	<properties>
          <entry>
             <key>azure.testcase.ids</key>
