@@ -4,6 +4,14 @@
    <name>Create a new user</name>
    <tag></tag>
    <integratedEntity>
+	<productName>Azure</productName>
+      <properties>
+         <entry>
+            <key>azure.testcase.ids</key>
+            <value>1,2</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
    </integratedEntity>
    <comment></comment>
    <recordOption>OTHER</recordOption>
