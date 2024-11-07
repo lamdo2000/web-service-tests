@@ -4,12 +4,11 @@
    <name>Find user by ID</name>
    <tag></tag>
     <integratedEntity>
-
 <productName>Azure</productName>
       <properties>
          <entry>
             <key>azure.testcase.ids</key>
-            <value>1,2</value>
+            <value>3,4</value>
          </entry>
       </properties>
       <type>TESTCASE</type>
