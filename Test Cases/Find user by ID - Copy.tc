@@ -5,69 +5,69 @@
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>f58a74e7-bf5d-4110-a59e-560075cfe771</testCaseGuid>
+   <testCaseGuid>51c4be2c-4bba-4057-b498-1270828b4c21</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>63e4b78a-b671-4ce1-afa7-24aa79756c9d</variableId>
+      <variableId>3671bce5-c7f6-4649-8262-7d9d048b1759</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>bb4fb8f3-4014-44e5-961e-98e5d0adbaf2</variableId>
+      <variableId>b5accbd7-af84-4cb3-8fdd-020e4bd3c8ac</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>e3c44657-5966-441b-9a5e-e491cc342a99</variableId>
+      <variableId>2667d3c4-6d6c-4ae1-a223-aaf60c33ba8a</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>ad0e6de0-83fe-447c-a62e-593f915367ec</variableId>
+      <variableId>ce0dbd4c-1067-4153-90c9-664272485cc1</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>6be3eaca-a04b-4c49-960d-d859b209cfc7</variableId>
+      <variableId>f264630e-dbe9-426b-974e-bf986df6c6bd</variableId>
    </variableLinks>
    <variable>
       <defaultValue>25</defaultValue>
       <description></description>
-      <id>63e4b78a-b671-4ce1-afa7-24aa79756c9d</id>
+      <id>3671bce5-c7f6-4649-8262-7d9d048b1759</id>
       <masked>false</masked>
       <name>age</name>
    </variable>
    <variable>
       <defaultValue>'mimi'</defaultValue>
       <description></description>
-      <id>bb4fb8f3-4014-44e5-961e-98e5d0adbaf2</id>
+      <id>b5accbd7-af84-4cb3-8fdd-020e4bd3c8ac</id>
       <masked>false</masked>
       <name>username</name>
    </variable>
    <variable>
       <defaultValue>'123456789'</defaultValue>
       <description></description>
-      <id>e3c44657-5966-441b-9a5e-e491cc342a99</id>
+      <id>2667d3c4-6d6c-4ae1-a223-aaf60c33ba8a</id>
       <masked>false</masked>
       <name>password</name>
    </variable>
    <variable>
       <defaultValue>'MALE'</defaultValue>
       <description></description>
-      <id>ad0e6de0-83fe-447c-a62e-593f915367ec</id>
+      <id>ce0dbd4c-1067-4153-90c9-664272485cc1</id>
       <masked>false</masked>
       <name>gender</name>
    </variable>
    <variable>
       <defaultValue>GlobalVariable.globalId</defaultValue>
       <description></description>
-      <id>6be3eaca-a04b-4c49-960d-d859b209cfc7</id>
+      <id>f264630e-dbe9-426b-974e-bf986df6c6bd</id>
       <masked>false</masked>
       <name>id</name>
    </variable>
